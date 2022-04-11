@@ -19,7 +19,7 @@ function App() {
   }
 
   let Latestscore = "";
-  if(Initial.Score>100){
+  if(Initial.Score>=100){
       Latestscore = "India Won"
   }
 
